@@ -1,0 +1,41 @@
+{
+	"pizzaTypes" : 
+	[
+		{
+			"name" : "Classic Pepperoni",
+			"price" : 10.95,
+			"size" : "large",
+			"toppings" : ["cheese", "pepperoni"],
+			"image" : "pizza-2.jpg"
+		},
+
+		{
+			"name" : "Three Kings",
+			"price" : 14.00,
+			"size" : "medium",
+			"toppings" : ["cheese", "olives", "bacon"],
+			"image" : "pizza-3.jpg"
+		},	
+
+		{
+			"name" : "Vegetarian",
+			"price" : 12.00,
+			"size" : "large",
+			"toppings" : ["cheese", "tomatoes", "spinach", "olives"],
+			"image" : "pizza-1.jpg"
+		}		
+
+
+
+	]
+
+
+
+
+
+
+
+
+
+
+}
